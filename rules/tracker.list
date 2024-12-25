@@ -1,14 +1,3 @@
-DOMAIN-SUFFIX, nextpt.net #FSM
-DOMAIN-SUFFIX, connects.icu #FSM
-
-DOMAIN-SUFFIX, t.ubits.club #UBits
-
-DOMAIN-SUFFIX, tracker.carpt.net #carpt
-
-DOMAIN-SUFFIX, tracker.qingwa.pro #青蛙
-DOMAIN-SUFFIX, tracker.qingwapt.com #青蛙
-DOMAIN-SUFFIX, tracker.qingwapt.org #青蛙
-
 #通用
 # URL-KEYWORD, announce.php #通用Tracker匹配
 # URL-KEYWORD, Announce #通用Tracker匹配
@@ -20,3 +9,18 @@ DOMAIN-SUFFIX, tracker.qingwapt.org #青蛙
 # DOMAIN-KEYWORD, find_node
 # DOMAIN-KEYWORD, BitTorrent
 # DOMAIN-KEYWORD, announce_peer
+
+DOMAIN-SUFFIX, nextpt.net #FSM
+DOMAIN-SUFFIX, connects.icu #FSM
+
+DOMAIN-SUFFIX, t.ubits.club #UBits
+
+DOMAIN-SUFFIX, tracker.carpt.net #carpt
+
+DOMAIN-SUFFIX, tracker.qingwa.pro #青蛙
+DOMAIN-SUFFIX, tracker.qingwapt.com #青蛙
+DOMAIN-SUFFIX, tracker.qingwapt.org #青蛙
+
+DOMAIN-SUFFIX, tracker.m-team.cc #馒头
+
+DOMAIN-SUFFIX, rousi.zip #肉丝
