@@ -1,0 +1,2 @@
+# No additional requirements needed
+# tkinter is included in Python standard library 

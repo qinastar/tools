@@ -28,6 +28,10 @@ sed -i "s/Connection\\\\PortRangeMin=[0-9]*/Connection\\\\PortRangeMin=$UP_PORT/
 sed -i "/\\[Preferences\\]/a General\\\\Locale=zh" /home/$USER/.config/qBittorrent/qBittorrent.conf
 sed -i "/\\[Preferences\\]/a Downloads\\\\PreAllocation=false" /home/$USER/.config/qBittorrent/qBittorrent.conf
 sed -i "/\\[Preferences\\]/a WebUI\\\\CSRFProtection=false" /home/$USER/.config/qBittorrent/qBittorrent.conf
+sed -i "/\\[Preferences\\]/a WebUI\\\\HostHeaderValidation=false" /home/$USER/.config/qBittorrent/qBittorrent.conf
+sed -i "/\\[Preferences\\]/a WebUI\\\\LocalHostAuth=false" /home/$USER/.config/qBittorrent/qBittorrent.conf
+sed -i "/\\[Preferences\\]/a WebUI\\\\AuthSubnetWhitelist=127.0.0.1" /home/$USER/.config/qBittorrent/qBittorrent.conf
+sed -i "/\\[Preferences\\]/a WebUI\\\\AuthSubnetWhitelistEnabled=true" /home/$USER/.config/qBittorrent/qBittorrent.conf
 sed -i "s/disable_tso_/# disable_tso_/" /root/.boot-script.sh
 echo "systemctl enable qbittorrent-nox@$USER" >> /root/BBRx.sh
 echo "systemctl start qbittorrent-nox@$USER" >> /root/BBRx.sh
