@@ -17,6 +17,7 @@ DOMAIN-SUFFIX, creditkarma.co.uk
 DOMAIN-SUFFIX, totallymoney.uk
 DOMAIN-SUFFIX, totallymoney.com
 DOMAIN-SUFFIX, clearscore.com
+DOMAIN-KEYWORD, clearscore
 DOMAIN-SUFFIX, checkmyfile.com
 DOMAIN-SUFFIX, hellopillar.com
 DOMAIN-SUFFIX, pillar.money
@@ -101,19 +102,19 @@ DOMAIN-SUFFIX, topcashback.com
 DOMAIN-SUFFIX, kroo.com
 # uphold
 DOMAIN-SUFFIX, uphold.com
-# Bybit
-DOMAIN-SUFFIX,bymj.io
-DOMAIN-SUFFIX,bybit.biz
-DOMAIN-SUFFIX,byd3c3.com
-DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,byapps.net
-DOMAIN-SUFFIX,bycsi.com
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,byabcde.com
-DOMAIN-SUFFIX,bybit.cloud
-DOMAIN-SUFFIX,bybit-aws.com
-DOMAIN-SUFFIX,bybitglobal.com
-DOMAIN-SUFFIX,bybit-global.com
+# yonder
+DOMAIN-SUFFIX,yondercard.com
+# jaja
+DOMAIN-SUFFIX,jaja.finance
+DOMAIN-SUFFIX,jaja.co.uk
+DOMAIN,jajafin-dataplane.rudderstack.com
+# nationwide
+DOMAIN-SUFFIX,nationwide.co.uk
+DOMAIN-SUFFIX,nationwidemortgages.co.uk
+DOMAIN-KEYWORD,nationwide
+IP-CIDR,185.203.72.0/22
+
+
 # 兜底
 DOMAIN-SUFFIX, co.uk
 

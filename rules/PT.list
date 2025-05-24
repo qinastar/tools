@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD, tracker
 DOMAIN-KEYWORD, announce.php?passkey=
+DOMAIN-KEYWORD, announce?credential=
 DOMAIN-KEYWORD, peer_id=
 DOMAIN-KEYWORD, info_hash
 DOMAIN-KEYWORD, get_peers
@@ -8,6 +9,12 @@ DOMAIN-KEYWORD, BitTorrent
 DOMAIN-KEYWORD, announce_peer
 DOMAIN-KEYWORD, audiences
 # > Private Tracker
+DOMAIN-SUFFIX, agsvpt.com
+DOMAIN-SUFFIX, sunnypt.top
+DOMAIN-SUFFIX, ubits.club
+DOMAIN-SUFFIX, qingwapt.com
+DOMAIN-SUFFIX, lemonhd.club
+DOMAIN-SUFFIX, zmpt.cc
 DOMAIN-SUFFIX, club.hares.top
 DOMAIN-SUFFIX, tracker.hhan.club
 DOMAIN-SUFFIX, hhanclub.top
@@ -232,6 +239,7 @@ DOMAIN, pt.j99.info
 DOMAIN, pt.keepfrds.com
 DOMAIN, pt.msg.vg
 DOMAIN, pt.m-team.cc
+DOMAIN, pt.m-team.io
 DOMAIN, pt.nwsuaf6.edu.cn
 DOMAIN, pt.sjtu.edu.cn
 DOMAIN, pt.soulvoice.club
